@@ -259,3 +259,8 @@ The project uses external threat-intelligence APIs only for investigation. It do
 ## License
 
 Add a license appropriate for your intended GitHub use.
+=======
+# Agentic-Cyber-Threat-Intelligence
+Cyber Threat Intelligence using a multi-agent AI Framework for IOC investigation, MITRE ATT&amp;CK mapping and risk assessment
+
+23c8e0416e974010de979dd1454008e8b8962a04
